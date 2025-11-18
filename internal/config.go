@@ -10,3 +10,4 @@ func Run() error {
 // avoid re-reading the config on every call
 // avoid re-reading the config on every call
 // drop an unused branch
+// clarify the control flow
